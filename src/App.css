@@ -1,0 +1,40 @@
+.pass-input{
+  padding: 10px 10px;
+  margin-left: 6rem;
+  border-radius: 15px 0px 0px 15px;
+  border: none;
+  font-size: 18px;
+}
+
+.pass-input:focus{
+  outline: none;
+}
+
+
+.copybtn{
+  border: none;
+  height: 48px;
+  width: 70px;
+  background-color: rgb(0, 128, 255);
+  color: white;
+  border-radius: 0px 15px 15px 0px;
+}
+
+.copybtn:hover {
+  box-shadow: inset 5px 4px 12px rgb(0 0 0 / 36%);
+}
+
+.bg-color{
+  background-color: rgb(210, 210, 210);
+}
+
+.length-input {
+  padding: 0px 0px;
+  margin-top: 20px;
+  margin-left: 6rem;
+}
+
+label{
+  font-size: 20px;
+  padding: 0px 9px;
+}
